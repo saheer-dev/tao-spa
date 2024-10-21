@@ -4,7 +4,7 @@ import Footer from "./components/Footer";
 import Home from "./components/Home";
 import Navbar from "./components/Navbar";
 import { AppProvider } from "./components/context/Context";
-import Profile from "./components/Profile/Profile";
+import Profile from "./components/profile/Profile";
 import DoctorNote from "./components/profile/ProfileTabs/treatmenttabs/DoctorNote";
 
 
